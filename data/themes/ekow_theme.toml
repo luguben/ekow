@@ -5,7 +5,7 @@ name = "ekow_theme"
 light = true
 
 # Primary
-primary = "#063970"
+primary = "#fff"
 
 # Menu
 menu_primary = "#063970"
