@@ -17,15 +17,20 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/
-  - icon: github
-    icon_pack: fab
-    link: https://facebook.com/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://researchgate.net/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://drive.google.com/file/d/1P3s5M6wv3FrZFjGE2qQ8AP-d0sffH5o6/view?usp=sharing
+    icon_pack: ai
+    icon: CV
 organizations:
   - name: Hong Kong Baptist University
     url: https://www.hkbu.edu.hk/eng/main/index.jsp
