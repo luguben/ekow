@@ -4,9 +4,9 @@ role: PhD Candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
+  - Public Policy
+  - Structural Equation Modeling
   - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
