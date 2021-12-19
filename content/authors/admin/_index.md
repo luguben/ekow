@@ -45,7 +45,7 @@ education:
   courses:
     - course: PhD Candidate
       institution: Hong Kong Baptist University
-    - icon: twitter
+      icon: twitter
       icon_pack: fab
       link: https://twitter.com/      
     - course: MSc Public Administration
