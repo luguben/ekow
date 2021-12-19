@@ -1,7 +1,7 @@
 ---
 title: Vincent Ekow Arkorful
 role: PhD Candidate
-avatar_filename: 10751dfc1ebdd31d6af8221586202dcd.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
