@@ -38,7 +38,7 @@ education:
       institution: University for Development Studies
       year: 2006
 email: ""
-superuser: true
+superuser: false
 highlight_name: true
 ---
 
