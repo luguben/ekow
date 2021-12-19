@@ -9,20 +9,20 @@ interests:
   - Structural Equation Modeling
   - Computational Linguistics
 social:
-  - icon: envelope-open-text
-    icon_pack: fas
-    link: mailto:saintvintino@gmail.com
-    display:
-      header: true
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-4230-3654
+    icon_pack: ai
+    icon: orcid
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/
   - icon: researchgate
     icon_pack: ai
     link: https://researchgate.net/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -31,6 +31,11 @@ social:
     link: https://drive.google.com/file/d/1P3s5M6wv3FrZFjGE2qQ8AP-d0sffH5o6/view?usp=sharing
     icon_pack: ai
     icon: CV
+  - icon: envelope-open-text
+    icon_pack: fas
+    link: mailto:saintvintino@gmail.com
+    display:
+      header: true
 organizations:
   - name: Hong Kong Baptist University
     url: https://www.hkbu.edu.hk/eng/main/index.jsp
