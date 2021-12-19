@@ -16,7 +16,7 @@ links:
     icon_pack: ai
     icon: google-scholar
 image:
-  filename: fifa-g43c2796da_1920.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
