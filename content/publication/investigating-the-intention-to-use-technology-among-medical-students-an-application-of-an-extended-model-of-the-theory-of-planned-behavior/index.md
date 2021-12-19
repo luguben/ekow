@@ -58,11 +58,8 @@ image:
   filename: nature-gadbaca19f_640.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-12-19T17:10:03.155Z
+date: 2021-12-19T19:14:23.181Z
 url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
