@@ -9,28 +9,28 @@ interests:
   - Structural Equation Modeling
   - Computational Linguistics
 social:
-  - display:
-      header: false
-    link: https://orcid.org/0000-0002-4230-3654
-    icon_pack: ai
-    icon: orcid
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/
   - icon: researchgate
     icon_pack: ai
     link: https://researchgate.net/
+  - display:
+      header: false
+    link: https://drive.google.com/file/d/1P3s5M6wv3FrZFjGE2qQ8AP-d0sffH5o6/view?usp=sharing
+    icon_pack: ai
+    icon: cv
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-4230-3654
+    icon_pack: ai
+    icon: orcid
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  - display:
-      header: false
-    link: https://drive.google.com/file/d/1P3s5M6wv3FrZFjGE2qQ8AP-d0sffH5o6/view?usp=sharing
-    icon_pack: ai
-    icon: cv
   - icon: envelope-open-text
     icon_pack: fas
     link: mailto:saintvintino@gmail.com
