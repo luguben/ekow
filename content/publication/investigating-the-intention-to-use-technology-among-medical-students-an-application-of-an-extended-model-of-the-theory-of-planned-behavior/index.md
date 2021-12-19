@@ -16,6 +16,11 @@ authors:
   - K. K.
   - "& Charmaine‐Kwade"
   - P.
+author_notes:
+  - Main contributor
+  - Conceptual framework contribution
+  - Methodology
+doi: https://doi.org/10.1002/pa.2460
 publication: " Journal of Public Affairs"
 abstract: >-
   Though the integration of technology into the health sector has been touted as
@@ -32,10 +37,17 @@ abstract: >-
 
   study implications are discussed.
 draft: false
-featured: false
+featured: true
+projects:
+  - example
 image:
-  filename: ""
+  filename: nature-gadbaca19f_640.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-12-19T17:10:03.155Z
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
