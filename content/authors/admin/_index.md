@@ -37,7 +37,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: University for Development Studies
       year: 2006
-email: ""
+email: 20481047@life.hkbu.edu.hk
 superuser: false
 highlight_name: true
 ---
