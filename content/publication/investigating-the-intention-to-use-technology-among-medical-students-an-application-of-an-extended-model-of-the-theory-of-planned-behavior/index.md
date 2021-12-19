@@ -38,7 +38,7 @@ abstract: Though the integration of technology into the health sector has been
   The results confirm the predictive potential and appropriateness of the TPB
   model. Arising from the empirical results, study implications are discussed.
 draft: false
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
