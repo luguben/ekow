@@ -8,6 +8,7 @@ interests:
   - Public Policy
   - Structural Equation Modeling
   - Computational Linguistics
+  - Decentralization
 social:
   - icon: google-scholar
     icon_pack: ai
