@@ -9,9 +9,11 @@ interests:
   - Structural Equation Modeling
   - Computational Linguistics
 social:
-  - icon: envelope
+  - icon: envelope-open-text
     icon_pack: fas
     link: mailto:saintvintino@gmail.com
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
