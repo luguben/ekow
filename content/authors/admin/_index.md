@@ -45,9 +45,6 @@ education:
   courses:
     - course: PhD Candidate
       institution: Hong Kong Baptist University
-    - icon: facebook
-      icon_pack: fab
-      link: https://twitter.com/      
     - course: MSc Public Administration
       institution: University of Science and Technology of China
       year: 2019
