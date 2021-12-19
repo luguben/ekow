@@ -7,12 +7,14 @@ summary: This project has numerous research on corruption in Accra. Be my guest
 draft: false
 featured: false
 links:
-  - url: researchgate.com
+  - url: https://www.researchgate.net/
     name: Researchgate
     icon_pack: ai
-  - url: scholar.google.com
+    icon: researchgate
+  - url: https://scholar.google.com/
     name: Google Scholar
     icon_pack: ai
+    icon: google-scholar
 image:
   filename: fifa-g43c2796da_1920.jpg
   focal_point: Smart
