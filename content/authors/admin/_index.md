@@ -38,7 +38,7 @@ education:
       institution: University for Development Studies
       year: 2006
 email: 20481047@life.hkbu.edu.hk
-superuser: false
+superuser: true
 highlight_name: true
 ---
 
