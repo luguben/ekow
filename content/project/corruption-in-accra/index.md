@@ -1,12 +1,17 @@
 ---
 title: Corruption in Accra
+subtitle: The evil undermining our development
 date: 2021-12-19T19:28:32.175Z
-summary: This project has numerous research on corruption in Accra.
+summary: This project has numerous research on corruption in Accra. Be my guest
+  as I unveil everything you need to know about this. It fun
 draft: false
 featured: false
 links:
   - url: researchgate.com
     name: Researchgate
+    icon_pack: ai
+  - url: scholar.google.com
+    name: Google Scholar
     icon_pack: ai
 image:
   filename: fifa-g43c2796da_1920.jpg
