@@ -9,6 +9,7 @@ interests:
   - Structural Equation Modeling
   - Computational Linguistics
   - Decentralization
+  - Voting behavior
 social:
   - icon: google-scholar
     icon_pack: ai
