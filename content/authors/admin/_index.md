@@ -16,7 +16,7 @@ social:
     icon_pack: ai
     link: https://researchgate.net/
   - display:
-      header: false
+      header: true
     link: https://drive.google.com/file/d/1P3s5M6wv3FrZFjGE2qQ8AP-d0sffH5o6/view?usp=sharing
     icon_pack: ai
     icon: cv
