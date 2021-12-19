@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Checking things out
+**Checking** things out
