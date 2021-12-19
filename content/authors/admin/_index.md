@@ -10,7 +10,7 @@ interests:
   - Computational Linguistics
 social:
   - icon: envelope
-    icon_pack: far
+    icon_pack: fab
     link: mailto:saintvintino@gmail.com
   - icon: twitter
     icon_pack: fab
