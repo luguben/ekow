@@ -34,7 +34,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: underwater-4286600_960_720.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-12-19T17:10:03.155Z
