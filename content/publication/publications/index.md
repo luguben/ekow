@@ -5,7 +5,7 @@ publication_types:
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-12-19T17:33:16.543Z
