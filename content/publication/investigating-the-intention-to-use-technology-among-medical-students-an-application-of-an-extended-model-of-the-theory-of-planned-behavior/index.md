@@ -54,6 +54,7 @@ publication: " Journal of Public Affairs"
 featured: true
 projects:
   - example
+  - corruption-in-accra
 image:
   filename: nature-gadbaca19f_640.jpg
   focal_point: Smart
