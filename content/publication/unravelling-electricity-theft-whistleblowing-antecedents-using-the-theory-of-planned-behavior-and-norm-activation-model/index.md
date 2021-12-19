@@ -30,9 +30,18 @@ abstract: Electricity theft is a challenge for developing countries including
   grounds for instituting anti-theft policy interventions.
 draft: false
 featured: false
+projects:
+  - corruption-in-accra
 image:
   filename: banner-gba2b60dfb_1280.jpg
   focal_point: Smart
   preview_only: false
+summary: "Electricity theft is a challenge for developing countries including
+  Ghana. Given its detrimental impacts on utility companies’ fiscal outlook and
+  investment attractiveness, countervailing measures have been instituted.
+  However, these have yielded suboptimal outcomes and thus excited
+  whistleblowing discourses. Therefore, the current study engages a behavior
+  paradigm to probe individual electricity theft whistleblowing intention
+  behavior. "
 date: 2021-12-19T18:43:01.019Z
 ---
