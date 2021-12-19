@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Vincent Ekow Arkorful
+role: PhD Candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -13,13 +13,13 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://facebook.com/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
