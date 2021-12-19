@@ -57,7 +57,7 @@ projects:
   - corruption-in-accra
 image:
   filename: nature-gadbaca19f_640.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 date: 2021-12-19T19:14:23.181Z
 url_slides: ""
