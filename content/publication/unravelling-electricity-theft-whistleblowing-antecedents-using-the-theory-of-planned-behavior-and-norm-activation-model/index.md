@@ -29,7 +29,7 @@ abstract: Electricity theft is a challenge for developing countries including
   predicting electricity theft whistleblowing intention, the study outcomes form
   grounds for instituting anti-theft policy interventions.
 draft: false
-featured: false
+featured: true
 image:
   filename: banner-gba2b60dfb_1280.jpg
   focal_point: Smart
