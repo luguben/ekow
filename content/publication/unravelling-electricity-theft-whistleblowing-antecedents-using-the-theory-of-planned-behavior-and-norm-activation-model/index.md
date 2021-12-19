@@ -6,6 +6,7 @@ publication_types:
 authors:
   - Vincent Ekow Arkorful
 doi: https://doi.org/10.1016/j.enpol.2021.112680
+publication: Energy Journal
 abstract: Electricity theft is a challenge for developing countries including
   Ghana. Given its detrimental impacts on utility companies’ fiscal outlook and
   investment attractiveness, countervailing measures have been instituted.
