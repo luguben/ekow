@@ -4,6 +4,10 @@ date: 2021-12-19T19:28:32.175Z
 summary: This project has numerous research on corruption in Accra.
 draft: false
 featured: false
+links:
+  - url: researchgate.com
+    name: Researchgate
+    icon_pack: ai
 image:
   filename: fifa-g43c2796da_1920.jpg
   focal_point: Smart
