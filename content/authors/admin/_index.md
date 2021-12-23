@@ -13,10 +13,12 @@ interests:
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/
+    link: https://scholar.google.com/citations?user=rnW798sAAAAJ&hl=en&oi=ao
+    display:
+      header: true
   - icon: researchgate
     icon_pack: ai
-    link: https://researchgate.net/
+    link: https://www.researchgate.net/profile/Vincent-Arkorful/research
   - display:
       header: true
     link: https://drive.google.com/file/d/1P3s5M6wv3FrZFjGE2qQ8AP-d0sffH5o6/view?usp=sharing
@@ -35,7 +37,7 @@ social:
     link: https://www.linkedin.com/
   - icon: envelope-open-text
     icon_pack: fas
-    link: mailto:saintvintino@gmail.com
+    link: mailto:saintvincentino@gmail.com
     display:
       header: true
 organizations:
