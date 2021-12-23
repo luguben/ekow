@@ -19,6 +19,8 @@ abstract: Indigenous traditional chieftaincy institutions in Ghana continue to
   containment.
 draft: false
 featured: false
+projects:
+  - covid-19
 image:
   filename: featured
   focal_point: Smart
