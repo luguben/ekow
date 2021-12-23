@@ -2,8 +2,8 @@
 title: Vincent Ekow Arkorful
 role: PhD Candidate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Broadly, my research interests converge around public and development
+  administration policy
 interests:
   - Public Policy
   - Structural Equation Modeling
@@ -58,6 +58,4 @@ email: saintvincentino@gmail.com
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Vincent is affiliated to the Centre for Policy Research Ghana. Over the past years, my research interests have significantly cut across a diverse reasonable spectrum of discourses ranging from social protection, social exclusion/inclusion, health and technology policy and studies with bearings on development sustainability studies. My research employs social science paradigms as a pathway to provide insights into, and further understanding of the intersection beteeen policies and development.
