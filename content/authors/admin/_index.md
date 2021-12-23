@@ -47,13 +47,14 @@ education:
   courses:
     - course: PhD Candidate
       institution: Hong Kong Baptist University
-    - course: MSc Public Administration
+    - course: Master of Arts - Public Administration
       institution: University of Science and Technology of China
-      year: 2019
-    - course: BSc in Artificial Intelligence
+      year: 2017
+    - course: Bachelor of Arts Development Studies (Social and Development
+        Administration)
       institution: University for Development Studies
-      year: 2006
-email: 20481047@life.hkbu.edu.hk
+      year: 2012
+email: saintvincentino@gmail.com
 superuser: true
 highlight_name: true
 ---
