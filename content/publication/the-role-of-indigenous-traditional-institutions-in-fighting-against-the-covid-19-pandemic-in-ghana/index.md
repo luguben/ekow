@@ -6,6 +6,7 @@ publication_types:
 authors:
   - Vincent Arkorful
 author_notes: []
+doi: 10.1080/09614524.2021.2005542
 abstract: Indigenous traditional chieftaincy institutions in Ghana continue to
   gain recognition whilst wielding influence across socio-political divides. In
   this viewpoint essay, against the backdrop of the fight against the global
