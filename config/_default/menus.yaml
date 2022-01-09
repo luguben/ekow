@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Projects
-    url: '#projects'
+    url: project-home
     weight: 30
   - name: Blog
     url: post
     weight: 35  
   - name: Publications
-    url: '#publications'
+    url: publication
     weight: 50
 
 
