@@ -4,7 +4,8 @@ subtitle: Institutional efficacy
 date: 2021-12-23T02:56:58.546Z
 draft: false
 featured: false
-tags: []
+tags:
+  - Public Policy
 image:
   filename: featured.jpg
   focal_point: Smart
