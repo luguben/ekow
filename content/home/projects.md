@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Reading List
-    tag: Reading List   
-  - name: Daily Writing
-    tag: Daily Writing
-  - name: Other
-    tag: Demo
+  - name: Decentralization
+    tag: Decentralization   
+  - name: Voting Behavior
+    tag: Voting Behavior
+  - name: Public Policy
+    tag: Public Policy
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
