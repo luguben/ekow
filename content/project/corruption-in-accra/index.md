@@ -6,6 +6,9 @@ summary: This project has numerous research on corruption in Accra. Be my guest
   as I unveil everything you need to know about this. It fun
 draft: false
 featured: false
+tags:
+  - Decentralization
+  - Public Policy
 links:
   - url: https://www.researchgate.net/
     name: Researchgate
